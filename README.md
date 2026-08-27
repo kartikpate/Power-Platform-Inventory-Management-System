@@ -96,7 +96,43 @@ Future versions of the system can include:
 
 ## 📸 Project Screenshots
 
-Screenshots of the **Power Apps application, SharePoint database, Power Automate workflows, and Power BI dashboard** will be available in the project repository.
+### 📱 Power Apps Inventory Application
+
+#### Inventory Dashboard
+![Power Apps Inventory Dashboard](Screenshots/Power%20Apps/power-apps-main-screen.png)
+
+#### Inventory Transaction Form
+![Power Apps Transaction Form](Screenshots/Power%20Apps/power-apps-transaction-form.png)
+
+---
+
+### ⚙️ Power Automate Workflow
+
+#### Automated Stock Update Flow
+![Power Automate Stock Update Flow](Screenshots/Power%20Automate/power-automate-stock-update-flow.png)
+
+#### Successful Automation Run
+![Power Automate Successful Run](Screenshots/Power%20Automate/power-automate-successful-run.png)
+
+---
+
+### 📊 Power BI Dashboard
+
+#### Inventory Management Dashboard
+![Power BI Inventory Dashboard](Screenshots/Power%20BI/inventory-dashboard.png)
+
+#### Inventory Stock Analysis
+![Power BI Stock Analysis](Screenshots/Power%20BI/inventory-stock-analysis.png)
+
+---
+
+### 🗄️ SharePoint Data Management
+
+#### Item Master
+![SharePoint Item Master](Screenshots/SharePoint/sharepoint-item-master.png)
+
+#### Inventory Transactions
+![SharePoint Inventory Transactions](Screenshots/SharePoint/sharepoint-inventory-transactions.png)
 
 ## 🔐 Data Privacy
 
